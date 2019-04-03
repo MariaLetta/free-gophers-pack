@@ -1,4 +1,6 @@
-# Free Gophers Pack
+# Free Gophers Pack 
+
+[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/avelino/awesome-go)
 
 ![alt](/preview/main.png)
 
