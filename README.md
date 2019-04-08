@@ -16,6 +16,9 @@ This pack of __100+__ gopher pictures and elements will help you to build own de
 2. [Goroutines](/goroutines/)
 3. [Illustrations](/illustrations/)
 
+## Messengers
+1. Telegram - [Free Gophers Pack](https://t.me/addstickers/Free_Gophers_Pack)
+
 There are special illustrations with life situations, goroutines and individual characters. Take a look at the [examples](/examples/) to see how cool they might look in real life.
 
 ![alt](/examples/1.png)
