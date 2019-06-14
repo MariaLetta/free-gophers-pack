@@ -1,4 +1,4 @@
-# Free Gophers Pack 
+# Free Gophers Pack
 
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/avelino/awesome-go)
 
@@ -9,15 +9,26 @@ This pack of __100+__ gopher pictures and elements will help you to build own de
 
 ![alt](/preview/1.png)
 
+
+## Messengers
+1. Telegram - [Free Gophers Pack](https://t.me/addstickers/Free_Gophers_Pack)
+
+## UPDATE: Shop
+
+![alt](/preview/shop_presentation.png)
+
+
+If you want some fun gophers __t-shirts, mugs, stickers on a laptop__ - now you can buy them with delivery to any place around the world:  
+✨👉 https://gophers.threadless.com/ 👈✨
+
+  Of course there are some nice deals in the shop, for example free shipping and so on.
+
 ## Contents
 
 0. [Examples](/examples/)
 1. [Characters](/characters/)
 2. [Goroutines](/goroutines/)
 3. [Illustrations](/illustrations/)
-
-## Messengers
-1. Telegram - [Free Gophers Pack](https://t.me/addstickers/Free_Gophers_Pack)
 
 There are special illustrations with life situations, goroutines and individual characters. Take a look at the [examples](/examples/) to see how cool they might look in real life.
 
