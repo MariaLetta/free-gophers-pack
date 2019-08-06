@@ -49,6 +49,10 @@ All illustrations are available in vector and raster formats on transparent back
 
 Please see full [LICENSE](/LICENSE) terms for details.
 
+## My other projects
+
+If you liked this project, you may also want to see [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack).
+
 ## About me
 
 My name is __Maria Letta__, I am a professional illustrator and graphic designer, some of my works can be found here:  
