@@ -13,6 +13,11 @@ This pack of __100+__ gopher pictures and elements will help you to build own de
 ## Messengers
 1. Telegram - [Free Gophers Pack](https://t.me/addstickers/Free_Gophers_Pack)
 
+## UPDATE: Christmas illustrations
+
+![alt](/preview/christmas.gif)
+![alt](/preview/christmas.png)
+
 ## UPDATE: Shop
 
 ![alt](/preview/shop_presentation.png)
