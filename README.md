@@ -45,10 +45,9 @@ All illustrations are available in vector and raster formats on transparent back
 
 ## License
 
-- Both companies and individuals can use provided content for __non-commercial__ purposes for __FREE with NO attribution__.
-- Projects devoted to education, software development in Go Programming Language, and charity can use the content for __FREE with attribution__ even for __commercial__ purposes.
+Thanks to Go community for all your kind words and warm support!
 
-Please see full [LICENSE](/LICENSE) terms for details.
+This package is now licensed as __CC0 (public domain)__ so you can use the images in any way with no restrictions.
 
 ## My other projects
 
